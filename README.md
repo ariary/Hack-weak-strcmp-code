@@ -92,7 +92,7 @@ And here is the output:
     Congratulations you are log in
     You failed to log in. Try again :-(
     ;*3$"
-You can write a script testing all the possibilities. It is not the most powerful attack because if there is a locking access for too many incorrect passwords would delay getting hacked a bit.
+You can write a script testing all the possibilities. It is not the most powerful attack because if there is a locking access for too many incorrect passwords, then hacking will be delayed a bit.
 
 ### Using ltrace
 **ltrace** is a debugging utility in Linux, used to display the calls a userspace application makes to shared libraries.
