@@ -63,7 +63,7 @@ We see at 0x0000000000400690 `strcmp`, ie a string comparison function, then a t
 	    wecantapeanythingevenwrongpwd
 	    Congratulations you are log in
 	    [Inferior 1 (process 3577) exited normally]
-To note that another technique is to observe which strings are comparated by strcmp by putting breakpoint and manipulating register.
+To note that another technique is to observe which strings are comparated by strcmp by putting breakpoint and manipulating register. Here we just bybass the comparaison mechanism
 
 ## Other Way
 ### Using strings
